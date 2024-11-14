@@ -1,0 +1,17 @@
+.container-1{
+  display: flex;
+  width: 67vw;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-2{
+  width: 65vw;
+  margin: 0 auto;
+}
+
+.container-3{
+  width: 44vw;
+  margin: 0 auto;
+}
